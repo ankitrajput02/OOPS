@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Bharti Airtel",
+    "sharenum": 100,
+    "price": 349.4
+  },
+  {
+    "name": "Tata Motors",
+    "sharenum": 125,
+    "price": 129.5
+  },
+  {
+    "name": "yes Bank",
+    "sharenum": 75,
+    "price": 67.1
+  },
+  {
+    "name": "Axis Bank",
+    "sharenum": 90,
+    "price": 663.3
+  },
+  {
+    "name": "Atlanta",
+    "sharenum": 50,
+    "price": 8.42
+  }
+]
